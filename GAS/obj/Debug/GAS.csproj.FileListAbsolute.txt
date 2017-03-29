@@ -1,0 +1,26 @@
+C:\Users\gustavo.reis\documents\visual studio 2015\Projects\GAS\GAS\bin\Debug\GAS.exe.config
+C:\Users\gustavo.reis\documents\visual studio 2015\Projects\GAS\GAS\bin\Debug\GAS.exe
+C:\Users\gustavo.reis\documents\visual studio 2015\Projects\GAS\GAS\bin\Debug\GAS.pdb
+C:\Users\gustavo.reis\documents\visual studio 2015\Projects\GAS\GAS\obj\Debug\GAS.Components.GamePlatform.resources
+C:\Users\gustavo.reis\documents\visual studio 2015\Projects\GAS\GAS\obj\Debug\GAS.ConsoleForm.resources
+C:\Users\gustavo.reis\documents\visual studio 2015\Projects\GAS\GAS\obj\Debug\GAS.Principal.resources
+C:\Users\gustavo.reis\documents\visual studio 2015\Projects\GAS\GAS\obj\Debug\GAS.Properties.Resources.resources
+C:\Users\gustavo.reis\documents\visual studio 2015\Projects\GAS\GAS\obj\Debug\GAS.csproj.GenerateResource.Cache
+C:\Users\gustavo.reis\documents\visual studio 2015\Projects\GAS\GAS\obj\Debug\GAS.exe
+C:\Users\gustavo.reis\documents\visual studio 2015\Projects\GAS\GAS\obj\Debug\GAS.pdb
+C:\Users\gustavo.reis\documents\visual studio 2015\Projects\GAS\GAS\obj\Debug\GAS.Components.Room.resources
+C:\Users\gustavo.reis\documents\visual studio 2015\Projects\GAS\GAS\obj\Debug\GAS.Components.Emulator.resources
+C:\Users\gustavo.reis\documents\visual studio 2015\Projects\GAS\GAS\obj\Debug\GAS.csprojResolveAssemblyReference.cache
+C:\Cloud\GAS\GAS\bin\Debug\GAS.exe.config
+C:\Cloud\GAS\GAS\obj\Debug\GAS.exe
+C:\Cloud\GAS\GAS\obj\Debug\GAS.pdb
+C:\Cloud\GAS\GAS\bin\Debug\GAS.exe
+C:\Cloud\GAS\GAS\bin\Debug\GAS.pdb
+C:\Cloud\GAS\GAS\obj\Debug\GAS.csprojResolveAssemblyReference.cache
+C:\Cloud\GAS\GAS\obj\Debug\GAS.Components.Emulator.resources
+C:\Cloud\GAS\GAS\obj\Debug\GAS.Components.GamePlatform.resources
+C:\Cloud\GAS\GAS\obj\Debug\GAS.Components.Room.resources
+C:\Cloud\GAS\GAS\obj\Debug\GAS.ConsoleForm.resources
+C:\Cloud\GAS\GAS\obj\Debug\GAS.Principal.resources
+C:\Cloud\GAS\GAS\obj\Debug\GAS.Properties.Resources.resources
+C:\Cloud\GAS\GAS\obj\Debug\GAS.csproj.GenerateResource.Cache
